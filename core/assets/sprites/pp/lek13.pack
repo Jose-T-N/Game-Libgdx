@@ -1,0 +1,96 @@
+
+lek13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Reloading_while_standing
+  rotate: false
+  xy: 1, 69
+  size: 224, 48
+  orig: 224, 48
+  offset: 0, 0
+  index: -1
+Reloading_while_crouching
+  rotate: false
+  xy: 1, 35
+  size: 224, 32
+  orig: 224, 32
+  offset: 0, 0
+  index: -1
+Running
+  rotate: false
+  xy: 227, 69
+  size: 192, 48
+  orig: 192, 48
+  offset: 0, 0
+  index: -1
+Shooting_while_running
+  rotate: false
+  xy: 421, 69
+  size: 192, 48
+  orig: 192, 48
+  offset: 0, 0
+  index: -1
+Idle
+  rotate: false
+  xy: 615, 69
+  size: 128, 48
+  orig: 128, 48
+  offset: 0, 0
+  index: -1
+Blink
+  rotate: false
+  xy: 745, 69
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Shooting_while_jumping
+  rotate: false
+  xy: 843, 69
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Shooting_while_crouching
+  rotate: false
+  xy: 1, 1
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+Shooting_while_standing
+  rotate: false
+  xy: 227, 19
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+Hurt
+  rotate: false
+  xy: 941, 69
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Jump
+  rotate: false
+  xy: 325, 19
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Standing
+  rotate: false
+  xy: 975, 69
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Crouching
+  rotate: false
+  xy: 99, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
